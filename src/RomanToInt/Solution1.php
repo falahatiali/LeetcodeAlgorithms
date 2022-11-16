@@ -1,5 +1,7 @@
 <?php
 
+namespace App\RomanToInt;
+
 class Solution1
 {
     public function romanToInteger($s){
